@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "uptime_s": 604,
+    "temperature_c": 33.30,
+    "rssi_dbm": -36
+  }
+]

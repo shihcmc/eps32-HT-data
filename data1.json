@@ -441,7 +441,12 @@
   },
   {
     "uptime_s": 2405,
-    "temperature_c": 34.30,
+    "temperature_c": 34.3,
     "rssi_dbm": -43
+  },
+  {
+    "uptime_s": 604,
+    "temperature_c": 34.30,
+    "rssi_dbm": -32
   }
 ]
